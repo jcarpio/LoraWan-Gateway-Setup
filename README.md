@@ -93,11 +93,6 @@ function Decoder(bytes, port) {
   };
 }
 ```
-6.
-
-
-
-
 
 
 # Links
