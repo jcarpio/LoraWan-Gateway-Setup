@@ -34,3 +34,6 @@ https://www.dragino.com/downloads/index.php?dir=LoRa_Gateway/LPS8/Firmware/Relea
 
 - Dragino LHT65N 
 https://www.dragino.com/products/temperature-humidity-sensor/item/224-lht65n.html
+
+- My Datacake Page
+https://app.datacake.de/pd/11832e94-10e8-4970-9a23-8e06690aaf43
