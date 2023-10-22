@@ -19,7 +19,17 @@ Dragino LPS8 gateway setup within Then Think Network with Dragino LHT65 temperat
 
 2. Con la aplicación AI Life de Huawei conectar con el Router Huawei B311 para obener la dirección IP asignada al Dragino LPS8
 
-3.  
+3. Configurar Dragino LPS8 
+
+4. Mostrar la informacion en Datacake. Seguir las instrucciones del manual y añadir en 
+http://wiki.dragino.com/xwiki/bin/view/Main/User%20Manual%20for%20LoRaWAN%20End%20Nodes/LHT65N%20LoRaWAN%20Temperature%20%26%20Humidity%20Sensor%20Manual/#H2.5ShowdataonDatacake
+
+5.
+
+
+
+
+
 
 # Links
 
@@ -37,3 +47,6 @@ https://www.dragino.com/products/temperature-humidity-sensor/item/224-lht65n.htm
 
 - My Datacake Page
 https://app.datacake.de/pd/11832e94-10e8-4970-9a23-8e06690aaf43
+
+- Dragino LHT65N Online Manual
+http://wiki.dragino.com/xwiki/bin/view/Main/User%20Manual%20for%20LoRaWAN%20End%20Nodes/LHT65N%20LoRaWAN%20Temperature%20%26%20Humidity%20Sensor%20Manual/
