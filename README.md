@@ -1,7 +1,7 @@
 # LoraWan-Gateway-Setup
 Dragino LPS8 gateway setup within Then Think Network with Dragino LHT65 temperature sensor and Datacake to display the data
 
-# Materiales
+# Materials
 
 ### -  <a target="_blank" href="https://www.amazon.es/HUAWEI-51060DYE-B311-221-LTE-CPE/dp/B07TK2X6NS/ref=sr_1_1?crid=1HETXX50JSXSX&amp;keywords=huawei+b311&amp;qid=1697994364&amp;sprefix=huawei+b311%252Caps%252C160&amp;sr=8-1&amp;ufe=app_do%253Aamzn1.fos.5e544547-1f8e-4072-8c08-ed563e39fc7d&_encoding=UTF8&tag=enkire-21&linkCode=ur2&linkId=55b34cb914aa5de6363ee744f44fb40b&camp=3638&creative=24630">Huawei B311</a>
 
@@ -13,16 +13,16 @@ Dragino LPS8 gateway setup within Then Think Network with Dragino LHT65 temperat
 
 ### - App Huawei AI Life
 
-# Procedimiento
+# Procedure
 
-1. Conectar el gatway Dragino LPS8 a través del cable RJ45 al router Huawei B311. Previamente el Router Huawei B311 debe estar configurado con su tarjeta SIM y debe tener acceso a internet
+1. Connect the Dragino LPS8 gatway via the RJ45 cable to the Huawei B311 router. Previously, the Huawei B311 Router must be configured with its SIM card and must have access to the internet.
+   
+2. With the Huawei AI Life application connect to the Huawei B311 Router to obtain the IP address assigned to the Dragino LPS8
 
-2. Con la aplicación AI Life de Huawei conectar con el Router Huawei B311 para obener la dirección IP asignada al Dragino LPS8
-
-3. Acceder y configurar el Gateway LPS8
+3. Access and configure the LPS8 Gateway
 http://wiki.dragino.com/xwiki/bin/view/Main/User%20Manual%20for%20All%20Gateway%20models/LPS8N%20-%20LoRaWAN%20Gateway%20User%20Manual/#H2.A0AccessandConfigureLPS8N 
 
-4. Mostrar la informacion en Datacake. Seguir las instrucciones del manual y añadir en el campo "Decodificador de Payload" el siguiente código
+5. Show the information in Datacake. Follow the instructions in the manual and add the following code in the "Payload Decoder" field
 http://wiki.dragino.com/xwiki/bin/view/Main/User%20Manual%20for%20LoRaWAN%20End%20Nodes/LHT65N%20LoRaWAN%20Temperature%20%26%20Humidity%20Sensor%20Manual/#H2.5ShowdataonDatacake
 ```
 function Decoder(bytes, port) {
