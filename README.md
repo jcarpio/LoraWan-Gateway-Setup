@@ -11,6 +11,8 @@ Dragino LPS8 gateway setup within Then Think Network with Dragino LHT65 temperat
 
 ### - <a target="_blank" href="https://www.amazon.es/MiaoMiao-Interior-Lorawan-Gateway-Service/dp/B091CC57ZT/ref=sr_1_fkmr0_1?__mk_es_ES=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=1KL7YYOOR0N65&amp;keywords=dragino+lps8&amp;qid=1697994631&amp;sprefix=dragino+lps8%252Caps%252C646&amp;sr=8-1-fkmr0&amp;ufe=app_do%253Aamzn1.fos.5e544547-1f8e-4072-8c08-ed563e39fc7d&_encoding=UTF8&tag=enkire-21&linkCode=ur2&linkId=3b6b72d210ff3e64c8deb7a2c5941d0d&camp=3638&creative=24630">Dragino LHT65N Temperature sensor</a>
 
+### - App Huawei AI Life
+
 # Procedimiento
 
 1. Conectar el gatway Dragino LPS8 a través del cable RJ45 al router Huawei B311. Previamente el Router Huawei B311 debe estar configurado con su tarjeta SIM y debe tener acceso a internet
@@ -19,4 +21,4 @@ Dragino LPS8 gateway setup within Then Think Network with Dragino LHT65 temperat
 
 3.  
 
-### - App Huawei AI Life
+
