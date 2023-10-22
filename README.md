@@ -21,4 +21,9 @@ Dragino LPS8 gateway setup within Then Think Network with Dragino LHT65 temperat
 
 3.  
 
+# Links
 
+- Payload Formats of LHT65 Deveice
+https://www.dragino.com/downloads/downloads/LHT65/payload_decode/ttn_payload_decode.txt
+
+- 
