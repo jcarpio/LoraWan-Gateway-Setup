@@ -32,4 +32,5 @@ https://docs.datacake.de/lorawan/get-started
 - Dragino LPS9 firmware Old Release
 https://www.dragino.com/downloads/index.php?dir=LoRa_Gateway/LPS8/Firmware/Release/old_release/lgw--build-v5.4.1625218977-20210702-1744/
 
--
+- Dragino LHT65N 
+https://www.dragino.com/products/temperature-humidity-sensor/item/224-lht65n.html
