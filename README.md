@@ -118,3 +118,8 @@ https://app.datacake.de/pd/11832e94-10e8-4970-9a23-8e06690aaf43
 
 - Dragino LHT65N Online Manual
 http://wiki.dragino.com/xwiki/bin/view/Main/User%20Manual%20for%20LoRaWAN%20End%20Nodes/LHT65N%20LoRaWAN%20Temperature%20%26%20Humidity%20Sensor%20Manual/
+
+- Dragino LPS8 Gateway
+http://wiki.dragino.com/xwiki/bin/view/Main/User%20Manual%20for%20All%20Gateway%20models/LPS8N%20-%20LoRaWAN%20Gateway%20User%20Manual/
+
+-
