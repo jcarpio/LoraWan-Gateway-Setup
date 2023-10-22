@@ -105,7 +105,9 @@ function Decoder(bytes, port) {
 - Payload Formats of LHT65 Deveice
 https://www.dragino.com/downloads/downloads/LHT65/payload_decode/ttn_payload_decode.txt
 
-- Datacake Lorawan Get Started
+- Datacake LHT65N Lorawan Get Started
+https://datacake.co/dragino-lht65-lorawan-temperature-humidity-sensor-dashboard-template
+
 https://docs.datacake.de/lorawan/get-started
 
 - Dragino LPS9 firmware Old Release
