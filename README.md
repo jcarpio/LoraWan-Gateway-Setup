@@ -93,7 +93,11 @@ function Decoder(bytes, port) {
   };
 }
 ```
+# Notes
 
+The online version of the Dragino LPS8 Gateway Manual corresponds to the latest version of the firmware that includes more options for configuring the Helium Network. In my case, I have updated to the dragino-lgw--v5.4.1689641188 version and the Gatway disconnected from the TTN server maintaining the configuration of the dragino-lgw--v5.4.1625218977 version that was installed at the Gateway. After downgrading to version dragino-lgw--v5.4.1625218977-squashfs-sysupgrade the Gateway reconnected to the TTN server and sent data.
+
+It remains to review the configuration to be able to update the firmware. Another detail about the different networks like Helium is that it is possible to choose one of them and you cannot send data to two networks at the same time, at least in the dragino-lgw version--v5.4.1625218977.
 
 # Links
 
@@ -119,3 +123,9 @@ http://wiki.dragino.com/xwiki/bin/view/Main/User%20Manual%20for%20LoRaWAN%20End%
 
 - Dragino LPS8 Gateway
 http://wiki.dragino.com/xwiki/bin/view/Main/User%20Manual%20for%20All%20Gateway%20models/LPS8N%20-%20LoRaWAN%20Gateway%20User%20Manual/
+
+- Antratek Dragino LHT65N 
+https://www.antratek.com/catalogsearch/result/?q=dragino+lht65n
+
+- Molukas Shop Dragino LSN50v2 Temperature Sensor Lora
+https://shop.molukas.com/es/nodos/79-dragino-lsn50v2-s31b-lorawan-temperature-humidity-sensor-eu868.html
